@@ -1,0 +1,6 @@
+{
+  "name": "Serpente",
+  "description": "Jogo estilo Snake clássico com 5 níveis de dificuldade crescente, controles para teclado e toque e ranking persistente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
